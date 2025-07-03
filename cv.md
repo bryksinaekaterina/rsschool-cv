@@ -1,42 +1,42 @@
-#Ekaterina Bryksina
+# Ekaterina Bryksina
 
 
-##Contacts
+## Contacts
 
-*Location: Tashkent, Uzbekistan
-*Phone: +998 94 634-87-46
-*Email: bryksinaekaterina2002@gmail.com
-*GitHub: bryksinaekaterina
-
-
-##About me
+* Location: Tashkent, Uzbekistan
+* Phone: +998 94 634-87-46
+* Email: bryksinaekaterina2002@gmail.com
+* GitHub: bryksinaekaterina
 
 
-##Skils
-*HTML5
-*CSS3
-*JavaScript (basic)
-*Python (pandas, numpy, tkinter)
-*C++
-*Git
-*Tilda
-*Figma
+## About me
 
 
-##Code examples
+## Skils
+* HTML5
+* CSS3
+* JavaScript (basic)
+* Python (pandas, numpy, tkinter)
+* C++
+* Git
+* Tilda
+* Figma
 
 
-##Education
-*Saint Petersburg State University of Industrial Technologies and Design ("Applied informatics in design")
-*Web designer: explosive start
-*Web Layout Designer: The Beginning
-*Course "Blender"
+## Code examples
 
 
-##Experience
+## Education
+* Saint Petersburg State University of Industrial Technologies and Design ("Applied informatics in design")
+* Web designer: explosive start
+* Web Layout Designer: The Beginning
+* Course "Blender"
 
 
-##Languages
-*Russian - native speaker
-*English - intermediate
+## Experience
+
+
+## Languages
+* Russian - native speaker
+* English - intermediate
 
