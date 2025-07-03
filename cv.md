@@ -44,9 +44,6 @@ console.log(createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]));
 * Course "Blender"
 
 
-## Experience
-
-
 ## Languages
 * Russian - native speaker
 * English - intermediate
