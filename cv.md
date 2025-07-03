@@ -12,7 +12,7 @@
 ## About me
 I am a student in the "Applied Computer Science in Design" program. I want to study front-end development in more depth. I am also interested in art photography and love animals :\)
 
-## Skils
+## Skills
 * HTML5
 * CSS3
 * JavaScript (basic)
